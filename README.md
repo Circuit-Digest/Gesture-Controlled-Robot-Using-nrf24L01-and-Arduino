@@ -1,5 +1,5 @@
 # Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino
-![Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino](https://github.com/Circuit-Digest/Smart-Irrigation-System-Using-ESP32-Blynk-App/blob/main/Thumbnail%20Image/IMG_5770.jpg)
+![Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino](https://github.com/gauravtak077/Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino/blob/main/Thumbnail%20Image/IMG_5972.HEIC)
 
 
 ## 📜 Summary
@@ -18,7 +18,7 @@ The "**Gesture Controlled Robot Using nRF24L01 and Arduino**" project enables th
 
 ## 📺 Watch the Tutorial
 
-[![Watch the Tutorial](https://github.com/Circuit-Digest/Smart-Irrigation-System-Using-ESP32-Blynk-App/blob/main/Thumbnail%20Image/smart-irrigation-gif.gif)
+[![Watch the Tutorial](https://github.com/gauravtak077/Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino/blob/main/Thumbnail%20Image/Assembly-%26-working-videofor-GIF-final.gif)
 
 - ## 📝 License
 
