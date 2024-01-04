@@ -1,5 +1,5 @@
 # Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino
-![Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino](https://github.com/gauravtak077/Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino/blob/main/Thumbnail%20Image/IMG_5972.HEIC)
+![Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino](https://github.com/gauravtak077/Gesture-Controlled-Robot-Using-nrf24L01-and-Arduino/blob/main/Thumbnail%20Image/Img.jpg)
 
 
 ## 📜 Summary
